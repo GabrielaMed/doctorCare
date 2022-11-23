@@ -1,6 +1,10 @@
 {
   "private": true,
-  "workspaces":[
+  "workspaces": [
     "packages/*"
-  ]
+  ],
+  "devDependencies": {
+    "@vitejs/plugin-react": "^2.2.0",
+    "vite": "^3.2.4"
+  }
 }
