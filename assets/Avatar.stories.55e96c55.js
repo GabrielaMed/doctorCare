@@ -1,0 +1,2 @@
+import{A as t}from"./index.4c169b09.js";import"./index.27a49c7b.js";import"./iframe.779468e9.js";import"./index.2b0bf697.js";import"./jsx-runtime.b181b914.js";const e={title:"Data display/Avatar",component:t,args:{src:"https://github.com/gabrielamed.png",alt:"Gabriela Medeiros"},argTypes:{src:{control:{type:"text"}}}},p={},c={args:{src:void 0}},m=["Primary","WithFallback"];export{p as Primary,c as WithFallback,m as __namedExportsOrder,e as default};
+//# sourceMappingURL=Avatar.stories.55e96c55.js.map
